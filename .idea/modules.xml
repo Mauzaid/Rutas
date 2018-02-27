@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Rutas.iml" filepath="$PROJECT_DIR$/Rutas.iml" />
+      <module fileurl="file://C:\Users\ASUS-PC\Documents\Rutas\Rutas.iml" filepath="C:\Users\ASUS-PC\Documents\Rutas\Rutas.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\ASUS-PC\Documents\Rutas\app\app.iml" filepath="C:\Users\ASUS-PC\Documents\Rutas\app\app.iml" />
     </modules>
   </component>
 </project>
